@@ -1,7 +1,7 @@
 ---
-title: "mfeo"
+title: "Quantitative Digital Methods"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the course website for Quantitative Digital Methods. 
 site: distill::distill_website
 ---
 
@@ -12,4 +12,10 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
+
+# About
+
+Hello and welcome friends :-) 
+
+# Textbooks
 

@@ -6,15 +6,36 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-08-02T21:50:29-04:00"
+      "last_modified": "2022-08-03T10:08:03-04:00"
     },
     {
       "path": "index.html",
-      "title": "mfeo",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Quantitative Digital Methods",
+      "description": "Welcome to the course website for Quantitative Digital Methods. \n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-08-02T21:50:30-04:00"
+      "contents": "\nAbout\nHello and welcome friends :-)\nTextbooks\n\n\n\n",
+      "last_modified": "2022-08-03T10:08:04-04:00"
+    },
+    {
+      "path": "joshua.html",
+      "title": "Joshua Eisenstat",
+      "author": [],
+      "contents": "\n\n          \n          \n          Quantitative Digital Methods\n          \n          \n          Home\n          \n          \n          Resources\n           \n          ▾\n          \n          \n          About\n          Joshua\n          Protocols\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Joshua Eisenstat\n          \n          \n            \n              I am a PhD Student in Sociology at New York University. I study the politics of software and relationship labor. I love talking about drag artists, Jewish witchcraft, and heterodox computational social science.\n            \n            \n              I am a PhD Student in Sociology at New York University. I study the politics of software and relationship labor. I love talking about drag artists, Jewish witchcraft, and heterodox computational social science.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                                \n                  \n                    \n                      Calendly\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                                \n                  \n                    Calendly\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-08-03T10:08:04-04:00"
+    },
+    {
+      "path": "protocols.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2022-08-03T10:08:05-04:00"
     }
   ],
   "collections": []
