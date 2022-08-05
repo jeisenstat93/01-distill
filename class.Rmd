@@ -1,9 +1,9 @@
 ---
-title: "Untitled"
+title: "Class"
 description: |
-  A new article created using the Distill format.
+  Weekly class agendas and readings
 author:
-  - name: Nora Jones 
+  - name: Joshua Eisenstat
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets

@@ -1,0 +1,27 @@
+---
+title: "Assignment 1"
+description: |
+  Due by Monday night
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+By the night before our next class, please: 
+
+- Download R and RStudio 
+- Create a project for this class with two folders: class and labs
+- In your labs folder, create a folder called "lab1" 
+- Download [this RMarkdown template]() and save in that folder
+- Respond to the questions
+- Knit RMarkdown to a PDF file and email me
+- If you have a trouble, no worries, just respond to the same questions in a word document
+
+
+
+
+
+

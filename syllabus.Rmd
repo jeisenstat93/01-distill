@@ -1,0 +1,197 @@
+---
+title: "Syllabus"
+description: |
+  Hunter College | Fall 2022
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Schedule
+
+Prior to each class please read and watch everything listed under discussion. You should have also completed the homework assignment from the week prior by Monday night. 
+
+You may wish to also review some of the recommended resources. I would suggest reading these after class, since I will emphasize what is important during my lectures and lab tutorials. 
+
+Note that this schedule may change. 
+
+## 1. Introduction
+
+### Class 1: Introduction (8/30)
+
+- Discussion: 
+  - [Syllabus]()
+  - Bail (2020), [Installing R and RStudio](https://sicss.io/overview/installing-r-and-rstudio)
+- Lab: [Intro to R and RMarkdown]()
+- Homework: [Assignment 1]()
+  
+<aside>
+Further resources:
+Wickham (2016), [R Markdown](https://r4ds.had.co.nz/r-markdown.html), [R Markdown Formats](https://r4ds.had.co.nz/r-markdown-formats.html), and [R Markdown Workflow](https://r4ds.had.co.nz/r-markdown-workflow.html)
+
+</aside>
+
+### Class 2: Computational Social Science (9/6)
+- Discussion:
+  - Bail (2020), [What is Digital Trace Data?](https://www.youtube.com/watch?v=uuSWQN7uYhk) and [R Basics](https://sicss.io/overview/r-basics)
+  - Salganik (2017), [Introduction](https://www.bitbybitbook.com/en/1st-ed/introduction/), [Observing Behavior](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/), and [Ethics](https://www.bitbybitbook.com/en/1st-ed/ethics/)
+- Lab: [R Basics]()
+- Homework: [Assignment 1](assignment1.html)
+
+<aside>
+Further resources:
+Grolemund (2014), [The Very Basics](https://rstudio-education.github.io/hopr/basics.html) <br>
+Wickham (2016), [Data Import](https://r4ds.had.co.nz/data-import.html) and [Tibbles](https://r4ds.had.co.nz/tibbles.html),
+</aside>
+
+### Class 3: Research Design (9/13)
+
+- Discussion: Inductive, deductive, and iteration
+- Lab: R Fundamentals
+- Homework: Download [RMarkdown file]() and follow the instructions
+  
+<aside>
+Further resources:
+Grolemun (2014), [Packages and Help Pages](https://rstudio-education.github.io/hopr/packages.html) and [R Objects](https://rstudio-education.github.io/hopr/r-objects.html) <br>
+Wickham (2016), [Strings](https://r4ds.had.co.nz/strings.html) and [Dates and Times](https://r4ds.had.co.nz/dates-and-times.html)
+</aside>
+  
+## 2. Tidyverse Fundamentals
+
+### Class 4: Data Visualization (9/20)
+
+- Discussion: 
+  - Bail (2020), [Visualization](https://sicss.io/overview/visualization)
+- Lab: ggplot2
+
+<aside>
+Further resources:
+Wickham (2016), [Data Visualization](https://r4ds.had.co.nz/data-visualisation.html)
+</aside>
+
+### Class 5: Data Wrangling (10/11)
+
+- Discussion: 
+  - Bail (2020), [Data Wrangling](https://www.youtube.com/watch?v=sXVP9256JSQ&feature=emb_title)
+- Lab: The Tidyverse
+
+<aside>
+Further resources:
+Wickham (2016), [Data Transformation](https://r4ds.had.co.nz/transform.html), [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html), [Tidy Data](https://r4ds.had.co.nz/tidy-data.html)
+</aside>
+
+### Class 6: Functional Programming (10/18)
+
+- Discussion:
+  - Bail (2020), [Prgramming Basics in R](https://www.youtube.com/watch?v=iP1SU5zBIxE&feature=emb_title)
+- Lab: Functions
+
+<aside>
+Further resources:
+Wickham (2016), [Pipes](https://r4ds.had.co.nz/pipes.html), [Functions](https://r4ds.had.co.nz/functions.html), [Vectors](https://r4ds.had.co.nz/vectors.html), and [Iteration](https://r4ds.had.co.nz/iteration.html)
+</aside>
+
+## 3. Open Government
+
+### Week 7: Open Government (10/25) 
+
+- Open Government I
+- Lab: Socrata API and Relational Data
+
+<aside>
+Further resources:
+Wickham (2016), [Relational Data](https://r4ds.had.co.nz/relational-data.html)
+</aside>
+
+### Week 8: Open Government (11/1)
+
+- Open Government II
+- Lab: Case Study
+
+<aside>
+Further resources:
+</aside>
+
+### Midterm Assignment: Due 11/7
+
+## 4. Text Analysis Fundamentals
+
+### Week 9: Web Scraping (11/8)
+
+- Lab: Web Scraping
+
+<aside>
+Further resources:
+</aside>
+
+### Week 10: Preprocessing Text (11/15)
+
+- Lab: Preprocessing
+
+<aside>
+Further resources:
+Silge and Robinson, [The tidy text format](https://www.tidytextmining.com/tidytext.html) and [Analyzing word and document frequecy](https://www.tidytextmining.com/tfidf.html)
+</aside>
+
+### Week 11 (11/22)
+
+- Lab: Dictionary Methods
+
+<aside>
+Further resources:
+Silge and Robinson, [Relationships between words](https://www.tidytextmining.com/ngrams.html)
+</aside>
+
+### Week 12 (11/29)
+
+- Lab: Topic Models
+
+<aside>
+Further resources:
+Silge and Robinson, [Topic Modeling](https://www.tidytextmining.com/topicmodeling.html) and [Mining NASA Metadata](https://www.tidytextmining.com/nasa.html)
+</aside>
+
+## 5. Social Media Data
+
+### Week 13 (12/6)
+
+- Lab: Twitter
+
+<aside>
+Further resources:
+Silge and Robinson, [Comparing Twitter archives](https://www.tidytextmining.com/twitter.html)
+</aside>
+
+### Week 14 (12/13)
+
+- Lab: Instagram
+
+<aside>
+Further resources:
+</aside>
+
+### Final Assignment: Due 12/20
+
+- Final Projects:
+  - [Open Gov]() 
+  - [Web Scraping]()
+  - [Twitter]()
+
+# Learning Outcomes
+
+By the end of this course, you should be able to:
+
+1. Explain what digital trace data is
+2. Explain what internet protocols are and why they matter
+3. Use the Tidyverse to wrangle and visualize data
+4. Use the R programming language to scrape the web, access APIs, and implement basic text analysis tasks
+5. Formulate quantitative sociological research questions and address them using data and evidence
+
+
+
+

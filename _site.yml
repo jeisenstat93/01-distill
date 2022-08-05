@@ -7,12 +7,14 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Resources"
-      menu: 
-        - text: "About"
-          href: about.html
-        - text: "Joshua"
-          href: joshua.html
-        - text: "Protocols"
-          href: protocols.html
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Homework"
+      menu:
+        - text: "Assignment 1"
+          href: assignment1.html
+    - text: "Slides"
+      menu:
+        - text: "Class 1"
+          href: class1.html
 output: distill::distill_article

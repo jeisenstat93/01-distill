@@ -1,0 +1,52 @@
+---
+title: "Learn R Resources"
+description: |
+  Resource for Learning and Teaching R.
+author:
+  - name: Joshua Eisenstat 
+    url: https://example.com/norajones
+    affiliation: Hunter College
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Tidyverse Resources
+
+Below is a shortlist of resources to go deeper specifically into the tidyverse, a framework we will be using frequently in this course.
+
+[Learn the Tidyverse Books and Workshops](https://www.tidyverse.org/learn/)
+
+[R for Data Science](https://r4ds.had.co.nz/)
+
+[Data Visualization: A Practical Introduction](https://socviz.co/)
+
+[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+
+[David Robinson TidyTuesday Videos](https://www.youtube.com/user/safe4democracy/videos)
+
+[Stat 545](https://stat545.com/index.html)
+
+[Useful R Packages for Data Science](https://www.computerworld.com/article/2921176/great-r-packages-for-data-import-wrangling-visualization.html)
+
+# Text Analysis Resources
+
+# Slides
+
+Below is a shortlist of slides freely available online that have inspired my own approach to teaching R and RMarkdown.
+
+Olivier Gimenez
+
+[Introduction to Git and Github with RStudio](https://oliviergimenez.github.io/quick-intro-git-github-rstudio/#1)
+
+[Writing dynamic and reproducible documents: An introduction to R Markdown](https://oliviergimenez.github.io/intro_rmarkdown/#1)
+
+[Introduction to the tidyverse](https://oliviergimenez.github.io/intro_tidyverse/#1)
+
+[GIS and Spatial Data with sf](https://oliviergimenez.github.io/intro_spatialR/#1)
+
+

@@ -1,0 +1,39 @@
+---
+title: "Class 1"
+description: |
+   Introduction to R and RStudio
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Welcome  
+
+Welcome to the first class of Quantitative Digital Methods. Here is the agenda for today:
+
+1. Welcome and Introductions
+2. Slides 
+3. Syllabus and Course Website
+4. Lab: R and RStudio
+
+## Slides
+
+```{r share-again, echo=FALSE}
+xaringanExtra::use_share_again()
+```
+
+```{r embed-xaringan, echo=FALSE, fig.cap="[Slides](slides/index.html)"}
+xaringanExtra::embed_xaringan(url = "slides/class1.html", ratio = "16:9")
+```
+
+## Prework
+
+There is no prework for this class. 
+
+
+
+
