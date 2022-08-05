@@ -39,7 +39,7 @@ Wickham (2016), [R Markdown](https://r4ds.had.co.nz/r-markdown.html), [R Markdow
 ### Class 2: Computational Social Science (9/6)
 - Discussion:
   - Bail (2020), [What is Digital Trace Data?](https://www.youtube.com/watch?v=uuSWQN7uYhk) and [R Basics](https://sicss.io/overview/r-basics)
-  - Salganik (2017), [Introduction](https://www.bitbybitbook.com/en/1st-ed/introduction/), [Observing Behavior](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/), and [Ethics](https://www.bitbybitbook.com/en/1st-ed/ethics/)
+  - Salganik (2017), [Introduction](https://www.bitbybitbook.com/en/1st-ed/introduction/) and [Observing Behavior](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/)
 - Lab: [R Basics]()
 - Homework: [Assignment 1](assignment1.html)
 
@@ -49,9 +49,11 @@ Grolemund (2014), [The Very Basics](https://rstudio-education.github.io/hopr/bas
 Wickham (2016), [Data Import](https://r4ds.had.co.nz/data-import.html) and [Tibbles](https://r4ds.had.co.nz/tibbles.html),
 </aside>
 
-### Class 3: Research Design (9/13)
+### Class 3: Research Design and Ethics (9/13)
 
-- Discussion: Inductive, deductive, and iteration
+- Discussion:
+  - Salganik (2017), [Ethics](https://www.bitbybitbook.com/en/1st-ed/ethics/)
+  - Salganik, Ethics and Computational Social Science ([Part 1](https://www.youtube.com/watch?v=A-5QaX5ZiK8), [Part 2](https://www.youtube.com/watch?v=TT6dOQMKHhA), and [Extensions](https://www.youtube.com/watch?v=lJyK6kXeDbc))
 - Lab: R Fundamentals
 - Homework: Download [RMarkdown file]() and follow the instructions
   
@@ -111,7 +113,7 @@ Wickham (2016), [Relational Data](https://r4ds.had.co.nz/relational-data.html)
 ### Week 8: Open Government (11/1)
 
 - Open Government II
-- Lab: Case Study
+- Lab: Spatial Data Analysis
 
 <aside>
 Further resources:
@@ -140,6 +142,8 @@ Silge and Robinson, [The tidy text format](https://www.tidytextmining.com/tidyte
 
 ### Week 11 (11/22)
 
+- Discussion:
+  - Bail, [Dictionary-Based Text Analysis](https://www.youtube.com/watch?v=wSIi2ZRKjaE)
 - Lab: Dictionary Methods
 
 <aside>
@@ -160,15 +164,20 @@ Silge and Robinson, [Topic Modeling](https://www.tidytextmining.com/topicmodelin
 
 ### Week 13 (12/6)
 
+- Discussion:
+  - Bail, [Text Networks](https://www.youtube.com/watch?v=-2dBI2ULcQw)
 - Lab: Twitter
 
 <aside>
 Further resources:
 Silge and Robinson, [Comparing Twitter archives](https://www.tidytextmining.com/twitter.html)
+Bail, [Application Programming Interfaces](https://www.youtube.com/watch?v=PMa4ZEPCKzM)
 </aside>
 
 ### Week 14 (12/13)
 
+- Discussion:
+  - [Using images and video data for social science](https://www.youtube.com/watch?v=FBjx7urvuw8)
 - Lab: Instagram
 
 <aside>

@@ -1,0 +1,36 @@
+---
+title: "Protocols"
+description: |
+  Some protocols you might want to learn about.
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: 
+    distill::distill_article:
+      toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In this course we will be exploring how protocol shapes what we can, and cannot, research online. Understanding internet protocols can be difficult. But, will help you better navigate the web as a researcher and individual. 
+
+Below is a shortlist of recommended resources to learn more about internet protocols. 
+
+# The Internet Protocol
+[How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+
+# The Domain Name System
+
+
+
+# Socrata Open Data Protocol
+
+[Socrata Developer Resources](https://dev.socrata.com/)
+
+
+

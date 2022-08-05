@@ -1,0 +1,19 @@
+---
+title: "Joshua Eisenstat"
+image: "images/joshua.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:je1541@nyu.edu"
+  - label: Calendly
+    url: "https://calendly.com/jeisenstat/15min"
+output:
+  postcards::jolla
+---
+ 
+I am a PhD Student in Sociology at New York University. I study the politics of software, protocol, and relationship labor. I love talking about drag artists, Jewish witchcraft, and heterodox computational social science. 
