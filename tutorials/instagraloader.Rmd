@@ -1,0 +1,126 @@
+---
+title: "Untitled"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+OK maybe simpler option, just take screenshots using RSelenium:
+https://cran.r-project.org/web/packages/RSelenium/RSelenium.pdf 
+
+https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-b6b1f27b885
+
+```{r}
+library(RSelenium)
+```
+
+omg wait instaloader is workingggg
+
+------
+
+
+Using the pre-made Python modules failed miserably. So now I am looking into whether or not you can automate Chrome devtools:
+https://rahulshettyacademy.com/blog/index.php/2021/11/04/selenium-4-feature-chrome-dev-tools-protocol/ 
+
+- The Chrome Dev Tools is an API that provides features to perform operations on dev tools programmatically by calling those API methods.
+
+- Selenium 4 commands
+send()
+executeCDPCommand()
+
+
+Documentation:
+https://chromedevtools.github.io/devtools-protocol/ 
+
+Get a DOM snapshot:
+https://chromedevtools.github.io/devtools-protocol/tot/DOMSnapshot/#method-captureSnapshot
+
+Work with the DOM:
+https://chromedevtools.github.io/devtools-protocol/tot/DOM/
+
+
+
+load library
+
+```{r}
+library(instaloadeR)
+library(reticulate)
+```
+
+install necessary python
+
+```{r}
+install_instaloadeR()
+```
+
+initialize
+
+```{r}
+init_instaloadeR()
+```
+
+get coronovairus posts
+
+```{r}
+
+corona <- insta_posts(query = "coronavirus", 
+                         scope = "hashtag",
+                         max_posts = 10, 
+                         scrape_comments = F)
+
+
+corona
+```
+
+get from a user
+
+```{r}
+
+francediplo <- insta_posts(query = "francediplo", 
+                         scope = "username",
+                         max_posts = 10, 
+                         scrape_comments = F)
+
+
+francediplo
+```
+
+try in bash
+
+```{python}
+# Get instance
+import instaloader
+
+L = instaloader.Instaloader()
+
+# Login or load session
+username = "academic_joshua"
+password = "s6PQOT77N3"
+L.login(username, password)  # (login)
+```
+
+```{python}
+for post in instaloader.Hashtag.from_name(L.context, 'fireislandpines').get_posts():
+    # post is an instance of instaloader.Post
+    L.download_post(post, target='#fireislandpines')
+
+```
+
+```{python}
+for post in instaloader.Hashtag.from_name(L.context, 'kohenet').get_posts():
+    # post is an instance of instaloader.Post
+    L.download_post(post, target='#kohenet')
+    
+```
+
+
