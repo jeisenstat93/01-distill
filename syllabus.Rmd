@@ -39,6 +39,8 @@ Wickham (2016), [R Markdown](https://r4ds.had.co.nz/r-markdown.html), [R Markdow
 ### Class 2: Computational Social Science (9/6)
 - Discussion:
   - Bail (2020), [What is Digital Trace Data?](https://www.youtube.com/watch?v=uuSWQN7uYhk) and [R Basics](https://sicss.io/overview/r-basics)
+  - [The Drag Queens Reading to Kids in Libraries](https://www.youtube.com/watch?v=Uy7Oj4fSzuI)
+  - [How to Support Drag Queen Story Hour With Community-Led Safety](https://www.advocate.com/commentary/2022/7/05/how-support-drag-queen-story-community-led-safety)
   - Salganik (2017), [Introduction](https://www.bitbybitbook.com/en/1st-ed/introduction/) and [Observing Behavior](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/)
 - Lab: [R Basics]()
 - Homework: [Assignment 1](assignment1.html)
@@ -46,21 +48,25 @@ Wickham (2016), [R Markdown](https://r4ds.had.co.nz/r-markdown.html), [R Markdow
 <aside>
 Further resources:
 Grolemund (2014), [The Very Basics](https://rstudio-education.github.io/hopr/basics.html) <br>
-Wickham (2016), [Data Import](https://r4ds.had.co.nz/data-import.html) and [Tibbles](https://r4ds.had.co.nz/tibbles.html),
+Wickham (2016), [Data Import](https://r4ds.had.co.nz/data-import.html) and [Tibbles](https://r4ds.had.co.nz/tibbles.html)
+[Group of Men Disrupt Drag Queen Story Hour at California Library](https://www.youtube.com/watch?v=E916ypQenNc)
+[Two Drag Queen Library Events Were Threatened by Proud Boys Over the Weekend](https://www.them.us/story/two-drag-queen-library-events-were-threatened-by-proud-boys-over-the-weekend)
+[Children Taken To 'Drag Show': Anthony Sabatini Responds With Legislation Push To Punish Parents](https://rumble.com/v17kpmy-children-taken-to-drag-show-anthony-sabatini-responds-with-legislation-push.html)
 </aside>
 
 ### Class 3: Research Design and Ethics (9/13)
 
 - Discussion:
   - Salganik (2017), [Ethics](https://www.bitbybitbook.com/en/1st-ed/ethics/)
-  - Salganik, Ethics and Computational Social Science ([Part 1](https://www.youtube.com/watch?v=A-5QaX5ZiK8), [Part 2](https://www.youtube.com/watch?v=TT6dOQMKHhA), and [Extensions](https://www.youtube.com/watch?v=lJyK6kXeDbc))
+  - Nelson (2020), [Computational Grounded Theory](https://journals.sagepub.com/doi/full/10.1177/0049124117729703)
 - Lab: R Fundamentals
 - Homework: Download [RMarkdown file]() and follow the instructions
   
 <aside>
 Further resources:
 Grolemun (2014), [Packages and Help Pages](https://rstudio-education.github.io/hopr/packages.html) and [R Objects](https://rstudio-education.github.io/hopr/r-objects.html) <br>
-Wickham (2016), [Strings](https://r4ds.had.co.nz/strings.html) and [Dates and Times](https://r4ds.had.co.nz/dates-and-times.html)
+Wickham (2016), [Strings](https://r4ds.had.co.nz/strings.html) and [Dates and Times](https://r4ds.had.co.nz/dates-and-times.html) <br>
+Salganik, Ethics and Computational Social Science ([Part 1](https://www.youtube.com/watch?v=A-5QaX5ZiK8), [Part 2](https://www.youtube.com/watch?v=TT6dOQMKHhA), and [Extensions](https://www.youtube.com/watch?v=lJyK6kXeDbc))
 </aside>
   
 ## 2. Tidyverse Fundamentals
@@ -165,23 +171,27 @@ Silge and Robinson, [Topic Modeling](https://www.tidytextmining.com/topicmodelin
 ### Week 13 (12/6)
 
 - Discussion:
-  - Bail, [Text Networks](https://www.youtube.com/watch?v=-2dBI2ULcQw)
+  - Flores (2017), [Do anti-immigrant laws shape public sentiment? A study of Arizona's SB 1070 using Twitter data](https://www.journals.uchicago.edu/doi/full/10.1086/692983)
 - Lab: Twitter
 
 <aside>
 Further resources:
 Silge and Robinson, [Comparing Twitter archives](https://www.tidytextmining.com/twitter.html)
-Bail, [Application Programming Interfaces](https://www.youtube.com/watch?v=PMa4ZEPCKzM)
+Bail, [Application Programming Interfaces](https://www.youtube.com/watch?v=PMa4ZEPCKzM) <br>
+[Drag story hour hosts, under attack, dig in their heels](https://apnews.com/article/drag-story-hour-hosts-e1ad3ff0dd73e2e66d98190d00568a1e) <br>
+[Drag Queen Story Hour](https://www.dragqueenstoryhour.org/)
 </aside>
 
 ### Week 14 (12/13)
 
 - Discussion:
   - [Using images and video data for social science](https://www.youtube.com/watch?v=FBjx7urvuw8)
-- Lab: Instagram
+- Lab: Flickr and Instagram
 
 <aside>
 Further resources:
+[Dietrich (2021)](https://www.cambridge.org/core/journals/political-analysis/article/abs/using-motion-detection-to-measure-social-polarization-in-the-us-house-of-representatives/0143F507BE97633F14FFA60256090E5E) <br>
+[FlickrAPI Documentation](https://cran.r-project.org/web/packages/FlickrAPI/FlickrAPI.pdf)
 </aside>
 
 ### Final Assignment: Due 12/20

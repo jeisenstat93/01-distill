@@ -13,12 +13,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Welcome  
 
-Welcome to the first class of Quantitative Digital Methods. Here is the agenda for today:
+Welcome to the first class of Quantitative Digital Methods. You can find a notes template in RMarkdown [here](resources/notes_template.Rmd)
+
+Here is the agenda for today:
 
 1. Welcome and Introductions
 2. Slides 
 3. Syllabus and Course Website
 4. Lab: R and RStudio
+
+## Learning Outcomes
+
+By the end of this class, you should be able to:
+
+1. 
 
 ## Slides
 
